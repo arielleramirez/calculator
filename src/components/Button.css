@@ -1,0 +1,20 @@
+.button-wrapper {
+  height: 4em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 1.4em;
+  background-color: #dfe3ee;
+  color: white;
+  flex: 1;
+  border-radius: 50%;
+  font-family: "Unlock", cursive;
+}
+
+.operator {
+  background-color: #8b9dc3;
+  color: white;
+  font-weight: bold;
+  font-family: "Unlock", cursive;
+}
